@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<a href="https://imgflip.com/gif/2qjyav"><img src="https://i.imgflip.com/2qjyav.gif" title="made at imgflip.com"/></a>
+<img src="https://i.imgflip.com/2qjyav.gif" title="made at imgflip.com"/>
 
 To see the data access layer click <a href="https://github.com/ajvelo/SwagShop-Api">here.</a>
 
