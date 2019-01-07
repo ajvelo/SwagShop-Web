@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <a href="https://imgflip.com/gif/2qjyav"><img src="https://i.imgflip.com/2qjyav.gif" title="made at imgflip.com"/></a>
 
+To see the data access layer click <a href="https://github.com/ajvelo/SwagShop-Api">here.</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
